@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "botkit": ">= 0.0.*"
+  },
+  "engines": {
+    "node": ">= 0.12.x",
+    "npm": ">= 3.5.x"
+  }
+}
