@@ -1,4 +1,4 @@
-# botkit-omikuji-command
+# :crystal_ball: botkit-omikuji-command
 
 ![screen.png](https://raw.githubusercontent.com/hico-horiuchi/botkit-omikuji-command/master/screen.png)
 
