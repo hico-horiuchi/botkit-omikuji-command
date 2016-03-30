@@ -1,5 +1,5 @@
 {
-  "name": "botkit-omikuji-command",
+  "name": "omikuji-command",
   "env": {
     "BOTKIT_SLACK_CLIENT_ID": "",
     "BOTKIT_SLACK_CLIENT_SECRET": "",
