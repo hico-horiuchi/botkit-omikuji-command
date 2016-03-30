@@ -1,0 +1,11 @@
+{
+  "name": "botkit-omikuji-command",
+  "env": {
+    "BOTKIT_SLACK_CLIENT_ID": "",
+    "BOTKIT_SLACK_CLIENT_SECRET": "",
+    "TZ": "Asia/Tokyo"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
